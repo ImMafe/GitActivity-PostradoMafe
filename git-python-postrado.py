@@ -1,3 +1,7 @@
 print("Mafe R. Postrado")
 print("Marlangga, Torijos Marinduque")
 print("February 2,2002")
+print("Marindue State College")
+print("Batchelor of Science in Information Technology")
+print("Second Year")
+print("E")
